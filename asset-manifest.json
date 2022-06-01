@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amanfertilizers/static/css/main.a3b8471e.css",
+    "main.js": "/amanfertilizers/static/js/main.e80298ef.js",
+    "static/js/787.71e672d5.chunk.js": "/amanfertilizers/static/js/787.71e672d5.chunk.js",
+    "index.html": "/amanfertilizers/index.html",
+    "main.a3b8471e.css.map": "/amanfertilizers/static/css/main.a3b8471e.css.map",
+    "main.e80298ef.js.map": "/amanfertilizers/static/js/main.e80298ef.js.map",
+    "787.71e672d5.chunk.js.map": "/amanfertilizers/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b8471e.css",
+    "static/js/main.e80298ef.js"
+  ]
+}
